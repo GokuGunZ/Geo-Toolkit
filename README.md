@@ -5,9 +5,11 @@ I used the 'generator.py' to generate the dataset (named 'dotti'). For each esco
 
 The 'dataformatter.py' is used to: collection all the data in a DataFrame, dividing each e-scooter ride and printing them on a graph; collecting every ride that crosses or is inside the POI (defined inside the file) and printing them; finally I plotted an histogram representing the number of eScooter inside the POI area per each hour of the day.
 
+### Map with all the rides
 ![Map with all the rides](/img/Figure_1.png?raw=true "Map with all the rides")
-Map with all the rides
+
+### Rides inside the POI
 ![rides inside the POI(Red)](/img/Figure_2.png?raw=true "rides inside the POI(Red)")
-Rides inside the POI
+
+### Histogram of eScooterInsidePOI per Hour
 ![Histogram eScooterInsidePOI/Hour](/img/Figure_3.png?raw=true "Histogram eScooterInsidePOI/Hour")
-Histogram of eScooterInsidePOI per Hour
